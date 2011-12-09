@@ -33,4 +33,7 @@ Authors
 .. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
 .. _makinacom:  http://www.makina-corpus.com
 .. |libertic| image:: http://libertic.files.wordpress.com/2010/02/logo-libertic.png
+   :height: 104
+   :width: 174
+   :alt: libertic logo
 .. _libertic: http://libertic.wordpress.com/libertic/
