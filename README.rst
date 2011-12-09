@@ -18,13 +18,13 @@ Companies
 
 |makinacom|_
 
-  * `Planet Makina Corpus <http://www.makina-corpus.org>`_
-  * `Contact us <mailto:python@makina-corpus.org>`_
+  * `Planet Makina-Corpus <http://www.makina-corpus.org>`_
+  * `Contact Makina-Corpus <mailto:python@makina-corpus.org>`_
 
 |libertic|_
 
   * `Libertic <http://libertic.wordpress.com/libertic/>`_
-  * `Contact us <mailto:claire.libertic@gmail.com>`_
+  * `Contact libertic <mailto:claire.libertic@gmail.com>`_
 
 Authors
 
@@ -33,4 +33,4 @@ Authors
 .. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
 .. _makinacom:  http://www.makina-corpus.com
 .. |libertic| image:: http://libertic.files.wordpress.com/2010/02/logo-libertic.png
-.. _libertic: http://www.twospy.com/galleriffic/
+.. _libertic: http://libertic.wordpress.com/libertic/
