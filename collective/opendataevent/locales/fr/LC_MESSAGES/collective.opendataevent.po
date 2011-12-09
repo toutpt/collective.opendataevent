@@ -1,0 +1,70 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"POT-Creation-Date: 2011-12-09 17:00+0000\n"
+"PO-Revision-Date: 2011-05-02 09:58+0000\n"
+"Last-Translator: toutpt <toutpt@gmail.com>\n"
+"Language-Team: French <plone-fr@lists.plone.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.opendataevent\n"
+"Report-Msgid-Bugs-To: http://dev.plone.org/plone\n"
+"Language: fr\n"
+
+#. Default: "Web address of the organizer."
+#: ./behaviors.py:32
+msgid "help_event_url"
+msgstr ""
+
+#. Default: "Email address to organizer about this event."
+#: ./behaviors.py:20
+msgid "help_organizer_email"
+msgstr ""
+
+#. Default: "Name of a person to organizer about this event."
+#: ./behaviors.py:14
+msgid "help_organizer_name"
+msgstr ""
+
+#. Default: "Phone number to organizer about this event."
+#: ./behaviors.py:26
+msgid "help_organizer_phone"
+msgstr ""
+
+#. Default: "Event"
+#: ./behaviors.py:45
+msgid "label_fieldset_event"
+msgstr ""
+
+#: ./behaviors.py:36
+msgid "label_organizer"
+msgstr ""
+
+#. Default: "Organizer E-mail"
+#: ./behaviors.py:19
+msgid "label_organizer_email"
+msgstr ""
+
+#. Default: "Organizer Name"
+#: ./behaviors.py:13
+msgid "label_organizer_name"
+msgstr ""
+
+#. Default: "Organizer Phone"
+#: ./behaviors.py:25
+msgid "label_organizer_phone"
+msgstr ""
+
+#. Default: "Organizer URL"
+#: ./behaviors.py:31
+msgid "label_organizer_url"
+msgstr ""
+

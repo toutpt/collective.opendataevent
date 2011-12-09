@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vdex xmlns="http://www.imsglobal.org/xsd/imsvdex_v1p0"
+      orderSignificant="false" language="en">
+    <vocabIdentifier>collective.opendataevent.vdexvocabulary.organizerrole</vocabIdentifier>
+    <term>
+        <termIdentifier>general</termIdentifier>
+        <caption>
+            <langstring language="en">General organizer</langstring>
+            <langstring language="fr"></langstring>
+        </caption>
+    </term>
+    <term>
+        <termIdentifier>venue</termIdentifier>
+        <caption>
+            <langstring language="en">Venue organiser</langstring>
+            <langstring language="fr"></langstring>
+        </caption>
+    </term>
+    <term>
+        <termIdentifier>artagent</termIdentifier>
+        <caption>
+            <langstring language="en">Artistic agent</langstring>
+            <langstring language="fr"></langstring>
+        </caption>
+    </term>
+    <term>
+        <termIdentifier>travgent</termIdentifier>
+        <caption>
+            <langstring language="en">Travel agent</langstring>
+            <langstring language="fr"></langstring>
+        </caption>
+    </term>
+    <term>
+        <termIdentifier>tech</termIdentifier>
+        <caption>
+            <langstring language="en">Technical organizer</langstring>
+            <langstring language="fr"></langstring>
+        </caption>
+    </term>
+</vdex>
